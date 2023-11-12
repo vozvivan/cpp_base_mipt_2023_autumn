@@ -1,0 +1,5 @@
+if(EXISTS "/home/ilya/Desktop/vk/mipt_cpp_autumn_2023/01/build/libphonetic/phonetic_test[1]_tests.cmake")
+  include("/home/ilya/Desktop/vk/mipt_cpp_autumn_2023/01/build/libphonetic/phonetic_test[1]_tests.cmake")
+else()
+  add_test(phonetic_test_NOT_BUILT phonetic_test_NOT_BUILT)
+endif()
