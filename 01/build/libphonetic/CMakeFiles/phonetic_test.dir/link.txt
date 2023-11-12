@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/phonetic_test.dir/source/phonetic_test.cc.o -o phonetic_test  libphonetic.a ../lib/libgtest_main.a ../lib/libgtest.a 
