@@ -1,1 +1,0 @@
-# cpp_base_mipt_2023_autumn
